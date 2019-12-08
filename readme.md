@@ -4,7 +4,7 @@ This project is an exploration of the versioning functionality for ASP.NET Core 
 
 Note: this project was created from aspnetcore 2.1 template and then upgraded to aspnetcore 3.1 to better replicate what would need to happen in some of my existing projects to support the versioning package.
 
-This is based on [https://github.com/microsoft/aspnet-api-versioning]
+This is based on https://github.com/microsoft/aspnet-api-versioning
 
 Some lessons learned so far
 - dotnetcore 2.1 does not seem supported by the Microsoft.AspNetCore.Mvc.Versioning package.
